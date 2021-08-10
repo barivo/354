@@ -1,3 +1,7 @@
-# cs354
+# CS-354,Spring 2015: Machine Organization and Programming 
 
-## Cache Simulator
+## Project 1 - Guessing Game
+## Project 2 - Binary Bombs
+## Project 3 - Alarms and Division
+## Project 4 - Cache Simulator
+## Project 5 - Memory Allocator
